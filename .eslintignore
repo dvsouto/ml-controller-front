@@ -1,0 +1,12 @@
+/dist
+/build
+/next
+/tmp
+/temp
+/node_modules
+/localstorage
+/*.js
+/.vscode
+/docker
+/public
+/node_modules
